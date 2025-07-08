@@ -1,0 +1,21 @@
+#ejenplo del json 
+{
+  "id": "abcd-1234",
+  "name": "Dev Environment",
+  "values": [
+    {
+      "key": "base_url",
+      "value": "https://api-dev.misitio.com",
+      "enabled": true
+    },
+    {
+      "key": "token",
+      "value": "eyJhbGciOiJIUzI1NiIsIn...",
+      "enabled": true
+    }
+  ],
+  "timestamp": 0,
+  "_postman_variable_scope": "environment",
+  "_postman_exported_at": "2025-07-08T17:45:00.000Z",
+  "_postman_exported_using": "Postman/11.0.0"
+}
