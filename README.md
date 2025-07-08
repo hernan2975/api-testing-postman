@@ -1,3 +1,4 @@
+
 # API Testing con Postman
 
 Repositorio diseñado para pruebas automatizadas de API REST utilizando Postman. Incluye colecciones organizadas, entornos configurables, documentación técnica y validaciones básicas. Ideal como punto de partida para implementaciones de QA funcional y automatizado.
