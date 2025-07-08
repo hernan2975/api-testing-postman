@@ -1,0 +1,16 @@
+
+# Archivos de entorno y Postman
+postman/environments/*.json
+postman/collections/*.backup.json
+
+# Archivos temporales
+*.log
+*.tmp
+.DS_Store
+
+# Node.js (si usás Newman con npm)
+node_modules/
+.env
+
+# Sistemas operativos
+Thumbs.db
