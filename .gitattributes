@@ -1,0 +1,9 @@
+
+# Asegurar que todos los archivos de texto usen LF (Unix-style)
+* text=auto eol=lf
+
+# Marcar los archivos JSON como texto legible
+*.json text
+
+# Ignorar archivos de imagen para conteo de lenguaje
+*.png linguist-documentation
