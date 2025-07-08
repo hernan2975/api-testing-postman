@@ -1,0 +1,14 @@
+📁 Estructura del Repositorio
+
+api-testing-postman/
+├── README.md
+├── postman/
+│   ├── collections/
+│   │   └── <nombre-colección>.json
+│   └── environments/
+│       └── <nombre-entorno>.json
+├── docs/
+│   └── endpoints.md
+├── scripts/
+│   └── test-validation.js
+└── .gitignore
